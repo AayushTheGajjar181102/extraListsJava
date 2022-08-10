@@ -1,6 +1,7 @@
 package arraylists;
 
 import java.util.*;
+import lists.*;
 
 class FirstArrayList{
 	
