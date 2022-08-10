@@ -8,6 +8,6 @@ Class Lists implements ExtraLists{
   2) print(arg1) -> it will iterate the entire list. Just one argument, and it's done!!
   */
   
-  //Use of these methods has shown in arraylist.java file.
+  //Use of these methods has shown in FirstArrayList.java file.
   //Just Check it out <GO> !!!
 }
